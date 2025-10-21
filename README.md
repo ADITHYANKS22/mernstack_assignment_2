@@ -1,2 +1,1 @@
-Assignment 2 – Employee Dashboard
-Create an Employee Dashboard with a Navbar containing Home and Employee Form links. The Home/Dashboard page should fetch and display employee data from the external API (https://jsonplaceholder.typicode.com/users) in a table/list/card showing ID, Name, and Email. The Employee Form should include fields: Name, Designation, Location, and Salary. Implement proper routing between pages and use any CSS library for styling.
+
